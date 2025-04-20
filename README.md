@@ -1,8 +1,13 @@
-# Modern Dashboard Application
+# Comprehensive Analytics Dashboard
 
 A feature-rich, responsive dashboard application built with modern web technologies. The application provides real-time insights through various widgets including weather updates, stock market data, news feeds, and GitHub integration.
 
-![Dashboard Preview](placeholder.svg)
+https://www.loom.com/share/51b1346b827c4b768e2ca8923d0c5608?sid=c9cf721b-ea86-4b73-be88-e1dcb569b1e0
+
+
+Deployed Link :- https://pgagi-comprehensive-analytics-dashboard.vercel.app/
+
+
 
 ## Features
 
